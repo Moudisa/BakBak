@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "613722698129",
+    "firebase_url": "https://bakbak-a77e9.firebaseio.com",
+    "project_id": "bakbak-a77e9",
+    "storage_bucket": "bakbak-a77e9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:613722698129:android:c94d6e53249270bc",
+        "android_client_info": {
+          "package_name": "com.apkglobal.bakbak"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "613722698129-kb6bmko0mb23ctbpgpc8hm2r3bl6pg16.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.apkglobal.bakbak",
+            "certificate_hash": "fbddd69b6404dc784424ce7144939b44d9178044"
+          }
+        },
+        {
+          "client_id": "613722698129-8omdentbjq7fdc0sfr7n57cosin045t0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtuIRlPMttcOtf5pKzz7RMvX_T2uCewvA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "613722698129-8omdentbjq7fdc0sfr7n57cosin045t0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
